@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋, I'm Deborah Berry</h1>
 <h3 align="center">I am a dynamic Software Developer, specialized in frontend development. With a focus on creating user-friendly web applications that deliver exceptional user experiences, I have worked both independently and in team settings on a variety of projects.</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/89/6a/e8/896ae89a07cda2fc7113102571dd605b.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deborahberry&label=Profile%20views&color=0e75b6&style=flat" alt="deborahberry" /> </p>
 
