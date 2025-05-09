@@ -6,13 +6,13 @@
 
 - 🤝 I’m currently based in **Kampala, Uganda** 🌍 and actively looking for **open-source projects to contribute to!**
 
-- 📫 How to reach me **berrydebby20@gmail.com**
+- 📫 How to reach me:  **berrydebby20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/deborahberry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="deborahberry" height="30" width="40" /></a>
 <a href="https://twitter.com/berrydebby20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="berrydebby20" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/deborah-berry-a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deborah-berry-a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/deborah-berry-a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deborahberrya" height="30" width="40" /></a>
 <a href="https://medium.com/@deborahberry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@deborahberry" height="30" width="40" /></a>
 </p>
 
