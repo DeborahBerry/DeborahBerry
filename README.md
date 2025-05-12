@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I talk to my code like it's a teammate**
 
-<h2 align="center">Connect with me:</h2>
+<h2 align="center">Connect with me 🔗</h2>
 <p align="center">
 <a href="berrydebby20@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -29,7 +29,7 @@
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center"> 
+<div align="left"> 
     <img src="https://skillicons.dev/icons?i=javascript,nodejs,react,bootstrap,django,mysql" />
     <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,vscode,github,figma,photoshop,git" /><br>
 </div>
