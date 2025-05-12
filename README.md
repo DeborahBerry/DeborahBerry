@@ -29,7 +29,7 @@
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center"> 
+<div align="left"> 
     <img src="https://skillicons.dev/icons?i=javascript,nodejs,react,bootstrap,django,html,css" />
     <img src="https://skillicons.dev/icons?i=sass,tailwind,typescript,vscode,figma,photoshop,git" /><br>
 </div>
