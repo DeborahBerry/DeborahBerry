@@ -26,7 +26,7 @@
   </a>
 </p>
 
-<h3 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 <br/>
 <div align="center"> 
     <img src="https://skillicons.dev/icons?i=javascript,nodejs,react,bootstrap,django,html,css" />
